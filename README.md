@@ -1,4 +1,4 @@
-##              Hi there 👋, I'm Gayathri
+##              Hi there 👋, I'm Seetharam
 
 *I live in Germany and work on AWS, AZURE Cloud & DevOps & SRE*
 
